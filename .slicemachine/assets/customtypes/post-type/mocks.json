@@ -1,0 +1,21 @@
+{
+  "id": "8ff8dc00-f46d-4634-a318-fd32ff4d16c6",
+  "uid": "blanditiis-et-dolor",
+  "type": "post-type",
+  "data": {
+    "Title": [
+      {
+        "type": "paragraph",
+        "text": "Ad adipisicing voluptate eiusmod excepteur consequat ea minim non laboris cillum officia reprehenderit. Lorem duis dolore fugiat.",
+        "spans": []
+      }
+    ],
+    "Content": [
+      {
+        "type": "paragraph",
+        "text": "Adipisicing quis magna aliquip sit voluptate aliqua exercitation veniam ad. Lorem adipisicing nulla aliquip reprehenderit exercitation ea. Irure dolore aliquip eiusmod sunt dolor in.",
+        "spans": []
+      }
+    ]
+  }
+}
